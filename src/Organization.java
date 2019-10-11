@@ -16,7 +16,7 @@ public class Organization {
                 employees.put(1, e1);
                 employees.put(2, e2);
 
-                //get employee based on attributes
+                //get employee attributes
                 System.out.println(employees.get(1).getName());
                 //remove employee
                 employees.remove(2,e2);
